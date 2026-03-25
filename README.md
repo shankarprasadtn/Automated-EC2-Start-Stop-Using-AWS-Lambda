@@ -53,14 +53,22 @@ Instances with tag Auto-Stop → Stopped
 
 ## Screenshots
 1. EC2 Instances List
+<img width="1899" height="946" alt="Screenshot 2026-03-25 202219" src="https://github.com/user-attachments/assets/fc8908f0-a666-415e-b623-2f1b9b6c51a9" />
 
 2. Instance Tags
+<img width="1908" height="941" alt="Screenshot 2026-03-25 201744" src="https://github.com/user-attachments/assets/ff36a912-e53e-4969-b565-982a7010ba66" />
+
+<img width="1901" height="954" alt="Screenshot 2026-03-25 201733" src="https://github.com/user-attachments/assets/0feeaf82-53af-4b91-960a-ac959186a068" />
+
 
 3. Lambda Function Code
+<img width="1323" height="486" alt="Screenshot 2026-03-25 202133" src="https://github.com/user-attachments/assets/4cee7b54-0a64-4a85-b4ac-930499e4be1d" />
 
 4. Lambda Test Output
+<img width="1899" height="948" alt="Screenshot 2026-03-25 202153" src="https://github.com/user-attachments/assets/829b2609-5599-46cf-ad63-9410a3dae173" />
 
 5. EC2 State Change
+<img width="1914" height="946" alt="Screenshot 2026-03-25 203106" src="https://github.com/user-attachments/assets/52647252-033b-48ec-88fc-aaac1e415f47" />
 
 ## Tools Used
 1. AWS Lambda
