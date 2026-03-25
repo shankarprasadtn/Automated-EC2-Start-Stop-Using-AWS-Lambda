@@ -36,6 +36,39 @@ Two EC2 instances were created and tagged:
 
 ---
 
+## Steps Followed
+Created two EC2 instances
+Applied tags (Auto-Start and Auto-Stop)
+Created IAM role with EC2 permissions
+Developed Lambda function using Python
+Implemented tag-based logic
+Deployed and tested Lambda function
+Verified instance state changes
+
+
+## Output
+Instances with tag Auto-Start → Started
+Instances with tag Auto-Stop → Stopped
+
+
+## Screenshots
+1. EC2 Instances List
+
+2. Instance Tags
+
+3. Lambda Function Code
+
+4. Lambda Test Output
+
+5. EC2 State Change
+
+## Tools Used
+AWS Lambda
+Amazon EC2
+IAM
+Python (Boto3)
+
+
 ## Code
 
 ```python
@@ -75,13 +108,3 @@ def lambda_handler(event, context):
         'stopped': stop_instances
     }
 
-
-
-## Steps Followed
-Created two EC2 instances
-Applied tags (Auto-Start and Auto-Stop)
-Created IAM role with EC2 permissions
-Developed Lambda function using Python
-Implemented tag-based logic
-Deployed and tested Lambda function
-Verified instance state changes
