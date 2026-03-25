@@ -74,3 +74,14 @@ def lambda_handler(event, context):
         'started': start_instances,
         'stopped': stop_instances
     }
+
+
+
+## Steps Followed
+Created two EC2 instances
+Applied tags (Auto-Start and Auto-Stop)
+Created IAM role with EC2 permissions
+Developed Lambda function using Python
+Implemented tag-based logic
+Deployed and tested Lambda function
+Verified instance state changes
