@@ -1,4 +1,4 @@
-##Title: Automated EC2 Instance Management Using AWS Lambda
+## Title: Automated EC2 Instance Management Using AWS Lambda
 
 
 ## Objective
