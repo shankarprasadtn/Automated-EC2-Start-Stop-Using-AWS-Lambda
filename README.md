@@ -63,10 +63,10 @@ Instances with tag Auto-Stop → Stopped
 5. EC2 State Change
 
 ## Tools Used
-AWS Lambda
-Amazon EC2
-IAM
-Python (Boto3)
+1. AWS Lambda
+2. Amazon EC2
+3. IAM
+4. Python (Boto3)
 
 
 ## Code
